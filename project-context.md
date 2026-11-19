@@ -1,0 +1,3 @@
+# Musical Theatre Entry — public introduction site
+
+2026-11-19: App glb-2615 / app.mcyj.examprep.glb2615 / Apple6829987753. Full local+Cloud1–5 release goal. Independent public marketing site, separate from app source and privacy/support site. App currently PREPARE_FOR_SUBMISSION; all availability text must say coming soon. Preserve source79 SHA23989dc25351715640fa4964284196667f51c061eb23b467ded0a554920846ff. Describe existing one-song notebook, six local saved notebooks, added versions and version-bound records; no repertoire/grade/readiness approval or official lyrics/audio. English and Korean pages. No credentials, analytics, forms, account service, server or external font fetches. Intended static branch Pages deployment, no GitHub Actions.
